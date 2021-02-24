@@ -13,7 +13,6 @@ Find me on Linkedin : [https://www.linkedin.com/in/thierry-brouet-481498192/](ht
 About :
 <br>
 - The marvellous Javascript's library React: [https://reactjs.org](https://reactjs.org)
-<br>
 - The wonderful cross-platform desktop apps with JavaScript, HTML, and CSS builder Electron: [https://www.electronjs.org/](https://www.electronjs.org/)
 
 ## Install

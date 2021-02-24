@@ -32,6 +32,6 @@ Start the app in the `dev` environment:
 yarn electron:serve
 ```
 <br>
-<img src=".erb/electron-react-app.png" width="100%" />
+<img src=".erb/electron-react-app.png" width="100%" alt="Electron React App" />
 <br>
 Enjoy! &#10084;

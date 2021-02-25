@@ -33,6 +33,12 @@ Start the app in the `dev` environment:
 ```bash
 yarn serve
 ```
+
+## Build app (Windows only)
+
+```bash
+yarn build
+```
 <br>
 <img src=".erb/electron-react-app.png" width="100%" alt="Electron React App" />
 <br>

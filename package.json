@@ -1,6 +1,6 @@
 {
-  "name": "react-electron-test",
-  "author": "Sébastien Vermelle",
+  "name": "react-electron-boilerplate",
+  "author": "Thierry Brouet - Sébastien Vermelle",
   "license": "MIT",
   "version": "1.0.0",
   "private": true,

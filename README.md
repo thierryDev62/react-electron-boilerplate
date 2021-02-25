@@ -31,7 +31,7 @@ yarn
 Start the app in the `dev` environment:
 
 ```bash
-yarn electron:serve
+yarn serve
 ```
 <br>
 <img src=".erb/electron-react-app.png" width="100%" alt="Electron React App" />

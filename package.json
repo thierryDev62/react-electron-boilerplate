@@ -37,8 +37,8 @@
     "electron:start": "wait-on tcp:3000 && electron ."
   },
   "build": {
-    "appId": "com.helloworld.app",
-    "productName": "Electron Test App",
+    "appId": "com.react_electron_boilerplate.app",
+    "productName": "React Electron Boilerplate",
     "target": "nsis",
     "icon": "build_ressources/icon.ico",
     "directories": {

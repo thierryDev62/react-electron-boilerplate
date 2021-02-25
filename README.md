@@ -40,6 +40,8 @@ yarn serve
 yarn build
 ```
 <br>
+## Final render
+
 <img src=".erb/electron-react-app.png" width="100%" alt="Electron React App" />
 <br>
 Enjoy! &#10084;

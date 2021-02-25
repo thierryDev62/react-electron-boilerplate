@@ -2,6 +2,8 @@
 
 Author: [Thierry Brouet](https://github.com/thierryDev62)
 <br>
+Contributor: [Sebastien Vermelle](https://github.com/Fyfres)
+<br>
 Find me on Linkedin : [https://www.linkedin.com/in/thierry-brouet-481498192/](https://www.linkedin.com/in/thierry-brouet-481498192/)
 <br>
 <br>

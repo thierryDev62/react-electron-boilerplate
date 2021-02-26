@@ -49,9 +49,9 @@
       "allowToChangeInstallationDirectory": true,
       "oneClick": false,
       "createDesktopShortcut": true,
-      "installerIcon": "public/logo192.ico",
-      "uninstallerIcon": "public/logo192.ico",
-      "installerHeaderIcon": "public/logo192.ico"
+      "installerIcon": "build_ressources/icon.ico",
+      "uninstallerIcon": "build_ressources/icon.ico",
+      "installerHeaderIcon": "build_ressources/icon.ico"
     }
   },
   "eslintConfig": {
